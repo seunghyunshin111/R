@@ -279,7 +279,7 @@ cat(score, "점은", result, "입니다.")
 
 
 #문제 5
-alpha0 <- paste(LETTERS,letters, sep="")
+alpha0 <- paste(LETTERS, letters, sep="")
 alpha0
 
 
@@ -316,6 +316,7 @@ exam3 = function(x, y){
 }
 
 
+#10월 24일_2
 
 
 
